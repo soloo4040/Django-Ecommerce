@@ -1,6 +1,6 @@
 # Django Ecommerce
 
-A simple ecommerce web application built with Django.
+A simple ecommerce web application built with HTML, CSS, BOOTSTRAP, JS and Django framework 
 
 ## Features
 - Product listing
